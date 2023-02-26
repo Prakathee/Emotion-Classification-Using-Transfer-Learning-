@@ -1,0 +1,3 @@
+In this project, we developed a machine learning model using Transfer Learning (MobileNet) to classify the emotion in an image. The model was implemented in Python and achieved an accuracy of 94%. We used the FER dataset from Kaggle, which included seven emotion categories, to train the model. By deploying this model, it is possible to recognize human emotions in real-time, making it a useful tool for a variety of applications. Overall, our study highlights the potential of Transfer Learning and its application in emotion recognition.
+
+Dataset Link: https://www.kaggle.com/datasets/msambare/fer2013
